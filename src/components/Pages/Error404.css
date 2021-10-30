@@ -1,0 +1,19 @@
+.error{
+  font-weight: 700;
+  font-size: 200px;
+  text-align: center;
+}
+
+div p{
+  font-size: 50px;
+  text-align: center;
+}
+
+.page{
+  text-align: center;
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+}
